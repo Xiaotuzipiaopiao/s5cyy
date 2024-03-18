@@ -1,0 +1,15 @@
+
+{
+  "inbounds": [{
+  "type": "socks",
+  "tag": "socks-in",
+  "listen": "::",
+  "listen_port": 18892,
+  "users": [
+    {
+      "username": "cyy",
+      "password": "123456"
+    }
+  ]
+}]
+}
